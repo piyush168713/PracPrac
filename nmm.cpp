@@ -1,1 +1,1 @@
-Successfully connectet, Git to Github
+Successfully connected, Git to Github
