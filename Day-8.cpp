@@ -3,9 +3,7 @@
 // Link - https://practice.geeksforgeeks.org/problems/90a81c305b1fe939b9230a67824749ceaa493eab/1
 
 class Solution{
-  public:
-  
-  
+  public:  
   vector<long long int> countZero(int n, int k, vector<vector<int>>& arr){
       //Code Here
       vector<int> row(n,0);
